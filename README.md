@@ -1,0 +1,1 @@
+This code reads a file contained ten different book titles and six different attributes for each. The code then reads each line and adds each element to the correct array. Then a function is called to calculate the words per page and displays this information in a table.
